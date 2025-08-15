@@ -10,7 +10,7 @@
 
 ## 现有的Github仓库
 ### 1. 完整的2D转3D解决方案
-**Github**：[SUBHADIPMAITI-DEV/2D-to-3D-Image-Converter  ](https://github.com/SUBHADIPMAITI-DEV/2D-to-3D-Image-Converter)
+**Github**：[SUBHADIPMAITI-DEV/2D-to-3D-Image-Converter  ](https://github.com/SUBHADIPMAITI-DEV/2D-to-3D-Image-Converter)  
 展示了AI和3D建模的结合，将2D图像转换为动态3D表示  
 
 **Github**：[snehalparanjape/2d-image-to-3d-model-converter  ](https://github.com/snehalparanjape/2d-image-to-3d-model-converter)
