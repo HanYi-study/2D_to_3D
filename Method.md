@@ -29,6 +29,14 @@ Github:```https://github.com/nikhilgrad/3D-Reconstruction```
 | 优势 |	适应性强，泛化能力好 |	对细节敏感，适合精细表面 |  
 | 应用 |	通用场景深度估计 |	需要已知或可估计光照的场景 |  
 
+
+## 利用deep3d的CNN时序深度学习网络  
+github：```https://github.com/HypoX64/Deep3D```
+
+
+## 利用MiDas模型/DenseDepth模型的单帧2d转3d方法
+github：```(https://github.com/browarsoftware/stereofast?tab=readme-ov-file)```
+
 ---
 
 <mark>有待验证：</mark>
